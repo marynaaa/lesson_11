@@ -19,6 +19,7 @@ html {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 70px 0;
 }
 
 .contact-form-section .container {
@@ -55,7 +56,7 @@ html {
 .contact-flex-row {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 70px;
+
 }
 
 .flex-column {
