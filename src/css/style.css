@@ -9,11 +9,6 @@ html {
     font-family: 'Raleway';
 }
 
-.page {
-    display: flex;
-    flex-direction: column;
-}
-
 .contact-form-section {
     min-height: 100vh;
     background-position: 50% 50%;
